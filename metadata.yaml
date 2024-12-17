@@ -1,0 +1,37 @@
+_repo: Die-Wacht-am-Rhein_74895
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Viebig, Clara
+    aliases:
+    - Cohn, Clara Viebig
+    - Viebig, Klara
+    - Fibich, Klara
+    - Cohn-Viebig, Clara
+    - Viebig, C. (Clara)
+    birthdate: 1860
+    deathdate: 1952
+    gutenberg_agent_id: '34774'
+    url: http://www.gutenberg.org/2009/agents/34774
+    wikipedia: http://de.wikipedia.org/wiki/Clara_Viebig
+description: ''
+gutenberg_issued: '2024-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74895'
+language: de
+pgterms:marc904: https://archive.org/details/diewachtamrheinr00vieb
+pgterms:marc905: 20221002083359viebig
+pgterms:marc906: '1904'
+pgterms:marc907: de
+production_note: Peter Becker, Martin Oswald and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aBerlin :$bEgon Fleischel & Co., $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Die Wacht am Rhein
+url: http://www.gutenberg.org/ebooks/74895
